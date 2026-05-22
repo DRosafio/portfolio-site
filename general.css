@@ -9,4 +9,8 @@ body {
   text-align: center;
   justify-content: center;
   padding: 0px 200px;
+  display: flex;
+}
+.main-text div{
+  flex: 1;
 }
