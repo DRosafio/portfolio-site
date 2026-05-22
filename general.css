@@ -1,0 +1,12 @@
+body {
+  background-color: #f7f7ef;
+}
+
+.main-text {
+  font-family: "DM Serif Display", Georgia;
+  font-size: 100px;
+  font-weight: 500;
+  text-align: center;
+  justify-content: center;
+  padding: 0px 200px;
+}

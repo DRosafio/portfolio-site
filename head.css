@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  padding: 55px;
+  font-size: 30px;
+}
+
+.header div {
+  flex: 1;
+  font-family: "DM Serif Display", Georgia;
+  font-weight: 500;
+}
+
+.header button {
+  background-color: #f7f7ef;
+  font-family: "DM Serif Display", Georgia;
+  font-size: 30px;
+  border: 0px;
+  cursor: pointer;
+}
